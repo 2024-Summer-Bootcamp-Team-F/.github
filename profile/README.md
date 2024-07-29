@@ -131,7 +131,7 @@ Grafana & Prometheus & ELK
     <td colspan="2" align="center"><b>ELK</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="" width="100%" height="100%"></td>
+    <td align="center"><img src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/ec9966b1-19b5-4bd6-95c4-85b3dfe7de51/Untitled.png?id=0c0579ca-a434-41e9-b308-5ad79c44ad09&table=block&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722362400000&signature=rF9p0uuTWxvXjeVrtbx6q7beZcvm3icRVVNcxpuktJU&downloadName=Untitled.png" width="100%" height="100%"></td>
   </tr>
 </table>
 
