@@ -97,10 +97,16 @@
 
 ## 📚 API
 <!-- <details> -->
-swagger
 <div markdown="1">
   
-<img width="1307" alt="" src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/fa8a55d7-3dff-485e-8ed4-9e4f7928f795/Untitled.png?id=a2a4e575-b576-4dff-81ab-a68421b4c755&table=block&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722348000000&signature=eRMwzlAUSW2qtsB74fYnflhm_QCv6KhQmxKONcuNfZk&downloadName=Untitled.png">
+<table>
+  <tr>
+    <td colspan="2" align="center"><b>cAdvisor</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/fa8a55d7-3dff-485e-8ed4-9e4f7928f795/Untitled.png?id=a2a4e575-b576-4dff-81ab-a68421b4c755&table=block&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722348000000&signature=eRMwzlAUSW2qtsB74fYnflhm_QCv6KhQmxKONcuNfZk&downloadName=Untitled.png" width="100%" height="100%"></td>
+  </tr>
+</table>
   
 </div>
 
