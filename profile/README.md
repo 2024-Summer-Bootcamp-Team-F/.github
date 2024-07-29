@@ -1,9 +1,68 @@
 <div align=center>
 <br> <image width=50%, height=50%, src="https://github.com/user-attachments/assets/77951842-4b4b-4e29-b6bb-3e8cf5c2061c">
 
-<br>🌠 상상을 현실로, 손끝에서 펼쳐지는 우리만의 세계 🌠
+<br>📹 AI로 광고 생성하는 서비스 📹
 ##### URL : https://techeerpicture.store 
 </div>
+
+## 📑 Medium
+✔️ [Korean Version]()
+<br>✔️ [English Version]()
+
+# ❓ TecheerPicture
+
+## **1. 어떤 광고를 만들지 선택**
+
+```
+→ 광고 배경, 광고 문구, 광고 영상 중 선택
+```
+
+## **2. 이미지 업로드를 통해 원하는 배경 생성**
+
+```
+→ 
+```
+
+## **3. 간단한 컨셉 및 카테고리 설정을 통해 광고 문구 생성**
+
+```
+→ 
+```
+
+## **4. 텍스트 입력을 통해 GIF 생성**
+
+```
+→ 
+```
+
+## **5. 생성된 이미지 또는 원하는 이미지를 AI를 통해 영상으로 변환**
+
+```
+→ 
+```
+
+## 📹 Demo
+
+### 📷 온보딩 페이지
+<img src="">
+
+### 📷 닉네임 생성 페이지
+<img src="">
+
+### 📷 광고 선택 페이지
+<img src="">
+
+### 📷 광고 배경 생성 페이지
+<img src="">
+
+### 📷 광고 문구 생성 페이지
+<img src="">
+
+### 📷 광고 영상 생성 페이지
+<img src="">
+
+### 📷 로딩창
+<img src="">
 
 ## 📚Table of Contents
 - [Medium](#-Medium)
@@ -11,35 +70,11 @@
 - [System Architechture](#-System-Architechture)
 - [Tech stack](#-Tech-stack)
 - [ERD](#-Erd)
-- [Neo4j](#-Neo4j)
 - [API](#-API)
 - [Monitoring](#-Monitoring)
 - [File Directory](#-file-directory)
-- [How to Start](#-How-to-Start)
 - [Directory Structure](#-Directory-Structure)
 - [Member](#-Member)
-
-## 📑 Medium
-✔️ [Korean Version](https://medium.com/@angal2310/siliconvalley-winter-bootcamp-nextpage-korean-ver-9be40743773d)
-<br>✔️ [English Version](https://medium.com/@angal2310/siliconvalley-winter-bootcamp-nextpage-english-ver-19fa610c68d2)
-
-## 🎬 Demo
-
-### 🪐 온보딩 페이지
-<img src="">
-
-### 🪐 랜딩페이지
-<img src="">
-
-### 🪐 주제 시나리오 페이지
-<img src="">
-
-### 🪐 시나리오 작성 모달
-<img src="">
-
-### 🪐 시나리오 페이지
-<img src="">
-
 
 ## 💻 System Architechture
 <img alt="system architecture" src="https://github.com/user-attachments/assets/392b283e-6f24-4d54-9dd4-9ca150f86175">
@@ -57,18 +92,15 @@
 **etc** | ![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=) ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=) ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=) ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=) <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
 </div>
 
-## 💾 MySQL
-<img width="1145" alt="AInterview ERD" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/154852665/020371c8-2500-4dbe-93c6-fdc98ac87013">
-
-## 💾 Neo4j
-<img src = "https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/4d9d20a3-cbf7-4fd2-8971-eafe98a8fef7" width=80% height="90%">
+## 💾 ERD
+<img width="1145" alt="" src="">
 
 ## 📚 API
 <!-- <details> -->
 swagger
 <div markdown="1">
   
-<img width="1307" alt="form gptanswer API" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/154852665/2c798336-4334-4fed-bd1a-27fd8bd86d60">
+<img width="1307" alt="" src="">
   
 </div>
 
@@ -77,14 +109,14 @@ Grafana & Prometheus & ELK
 
 **Django** |**Node exporter** |
 :-----:|:-----:
-<img src = "https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/154852665/6eb551ea-6ea2-4f52-ac79-932549b0a783" width=90%>|<img src = "https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/154852665/79e5d9f0-3317-4457-b041-71090cc605a9" width=100% >
+<img src = "" width=100% >
 
 <table>
   <tr>
     <td colspan="2" align="center"><b>cAdvisor</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/154852665/eb342c43-a67e-4fd9-8557-2a65b9f854c2" width="100%" height="100%"></td>
+    <td align="center"><img src="" width="100%" height="100%"></td>
   </tr>
 </table>
 
@@ -93,37 +125,9 @@ Grafana & Prometheus & ELK
     <td colspan="2" align="center"><b>ELK</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/e5e1299d-0136-485c-9822-87c9903c9333" width="100%" height="100%"></td>
+    <td align="center"><img src="" width="100%" height="100%"></td>
   </tr>
 </table>
-
-
-## 🚀 How to Start
-```
-$ git clone --recursive https://github.com/2023-Winter-Bootcamp-Team-J/NextPage.git
-```
-### env setting in the NextPage folder
-* NextPage/.env
-```
-DATABASE_NAME=
-MYSQL_ROOT_HOST=
-MYSQL_ROOT_PASSWORD=
-DATABASE_USER=
-DATABASE_PORT=
-DATABASE_HOST=
-DATABASE_PASSWORD=
-NEO4J_USERNAME=
-NEO4J_PASSWORD=
-GPT_API_KEY=
-AWS_ACCESS_KEY_ID=
-AWS_SECRET_ACCESS_KEY=
-SECRET_KEY= 
-```
-### Run Docker
-```
-$ docker-compose -f docker-compose.yml -f docker-compose.monitoring.yml up -d --build
-```
-
 
 ## 📂 Directory Structure
 
@@ -132,56 +136,31 @@ $ docker-compose -f docker-compose.yml -f docker-compose.monitoring.yml up -d --
 <pre>
 <code>
 
-📦backend  
+📦backend
 ┣ 📂backend
 ┃ ┣ 📜__init__.py 
 ┃ ┣ 📜asgi.py  
 ┃ ┣ 📜celery.py  
+┃ ┣ 📜Dockerfile
+┃ ┣ 📜requirements.txt
 ┃ ┣ 📜settings.py  
 ┃ ┣ 📜url.py  
 ┃ ┗ 📜wsgi.py  
-┗ 📂data  
-┃ ┣ 📂grafana
-┃ ┗ 📂prometheus 
-┗ 📂logging  
-┃ ┣ 📂filebeat
-┃ ┗ 📂logstash 
-┗ 📂neo_db  
-┃ ┣ 📂migrations   
-┃ ┣ 📜__init__.py  
-┃ ┣ 📜admin.py  
-┃ ┣ 📜apps.py  
-┃ ┣ 📜models.py  
-┃ ┣ 📜serializers.py 
-┃ ┣ 📜tests.py  
-┃ ┗ 📜view.py  
-┗ 📂story 
-┃ ┣ 📂migrations   
-┃ ┣ 📜__init__.py  
-┃ ┣ 📜admin.py  
-┃ ┣ 📜apps.py  
-┃ ┣ 📜image_generation_logic.py  
-┃ ┣ 📜models.py  
-┃ ┣ 📜serializers.py 
-┃ ┣ 📜tasks.py  
-┃ ┣ 📜tests.py  
-┃ ┣ 📜urls.py  
-┃ ┗ 📜view.py  
-┗ 📂user
-┃ ┣ 📂migrations   
-┃ ┣ 📜__init__.py  
-┃ ┣ 📜admin.py  
-┃ ┣ 📜apps.py  
-┃ ┣ 📜models.py  
-┃ ┣ 📜serializers.py 
-┃ ┣ 📜tests.py  
-┃ ┣ 📜urls.py  
-┃ ┗ 📜view.py  
-┣ 📜Dockerfile
-┣ 📜init_data.json
-┣ 📜load_neo4j_data.py
+┣ 📂background 
+┣ 📂banner  
+┣ 📂db   
+┃ ┗ 📜Dockerfile 
+┣ 📂image
+┣ 📂imagetovideo
+┣ 📂image_reszing
+┣ 📂texttovideo
+┣ 📂monitoring
+┃ ┣ 📂alertmanager
+┃ ┣ 📂prometheus
+┃ ┗ 📂logstash
+┣ 📂user
 ┣ 📜manage.py
-┗ 📜requirements.txt
+┣ 📜wait.mysql.py
 
 </code>
 </pre>
@@ -194,35 +173,36 @@ $ docker-compose -f docker-compose.yml -f docker-compose.monitoring.yml up -d --
 <code>
 
 📦frontend  
-┣ 📂.github  
-┣ 📂public  
-┗ 📂src  
-┃ ┣ 📂assets  
-┃ ┃ ┣ 📜lottie.json 
-┃ ┃ ┗ 📜react.svg  
-┃ ┣ 📂componets  
-┃ ┃ ┣ 📜CreateStoryModal.tsx 
-┃ ┃ ┣ 📜ForceGraph.jsx 
-┃ ┃ ┣ 📜ImgCarousel.tsx 
-┃ ┃ ┣ 📜Navbar.tsx
-┃ ┃ ┣ 📜NicknameModal.tsx 
-┃ ┃ ┣ 📜Onboarding1.tsx 
-┃ ┃ ┣ 📜Onboarding2.tsx
-┃ ┃ ┣ 📜Onboarding3.tsx
-┃ ┃ ┣ 📜Onboarding4.tsx
-┃ ┃ ┣ 📜RootModal.tsx
-┃ ┃ ┣ 📜ScenarioModal.tsx
-┃ ┃ ┣ 📜StoryModal.tsx
-┃ ┃ ┣ 📜Swiper.tsx
-┃ ┃ ┗ 📜ThreeParticles.tsx
-┃ ┣ 📂pages  
-┃ ┣ 📂recoil 
-┃ ┃ ┗ 📜atoms.tsx 
-┃ ┣ 📜App.css 
-┃ ┣ 📜App.tsx  
-┃ ┣ 📜index.css
-┃ ┣ 📜main.css  
-┗ ┗ 📜vite-env.d.ts 
+┣ 📂.github
+┣ 📂 server
+┃ ┣ 📂public  
+┃ ┗ 📂src
+┃ ┃ ┣ 📂api  
+┃ ┃ ┣ 📂assets  
+┃ ┃ ┃ ┣ 📜arrow.svg
+┃ ┃ ┃ ┣ 📜check.svg
+┃ ┃ ┃ ┣ 📜googleAd.svg
+┃ ┃ ┃ ┣ 📜instagram.svg
+┃ ┃ ┃ ┣ 📜uploadcloud.svg
+┃ ┃ ┃ ┗ 📜x.svg  
+┃ ┃ ┣ 📂componets
+┃ ┃ ┃ ┣ 📂form
+┃ ┃ ┃ ┣ 📂onboarding
+┃ ┃ ┃ ┣ 📜  
+┃ ┃ ┃ ┗ 📜
+┃ ┃ ┣ 📂pages
+┃ ┃ ┃ ┣ 📜  
+┃ ┃ ┃ ┗ 📜
+┃ ┃ ┣ 📂styles
+┃ ┃ ┃ ┣ 📜AutoSilde.css
+┃ ┃ ┃ ┗ 📜Loading.css
+┃ ┃ ┣ 📜App.css 
+┃ ┃ ┣ 📜App.tsx
+┃ ┃ ┣ 📜custom.d.ts
+┃ ┃ ┣ 📜font.css
+┃ ┃ ┣ 📜index.css
+┃ ┃ ┣ 📜main.tsx  
+┗ ┗ ┗ 📜vite-env.d.ts 
 
 </code>
 </pre>
@@ -230,11 +210,11 @@ $ docker-compose -f docker-compose.yml -f docker-compose.monitoring.yml up -d --
 
 ## 👨‍👩‍👧‍👧 Member
 
-| Name  | <center>윤정은</center> | <center>김미영</center> | <center>조하나</center> | <center>김형준</center> | <center>김광현</center> | <center>이강욱</center> | 
+| Name  | <center>김광현</center> | <center>김성국</center> | <center>박영인</center> | <center>이상진</center> | <center>이채은</center> | <center>손석영</center> | 
 | :----- | :---------------------------------------: |:----------------------------------:| :---------------------------------------: | :----------------------------------------: | :-----------------------------------: | :---------------------------------------: | 
-| Profile | <center><img width="100px" height="100px" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/b07082d0-28f9-442a-9e8d-d46aeed4f9d4" /></center>|<center><img width="100px" height="100px" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/96506175/fbdcdb1c-3f7c-4aac-9edc-d04bc58ee1d8" /></center>|<center><img width="100px" height="100px" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/94193594/ccc6683d-51fd-448c-9c78-e6735f91bada" /></center>|<center><img width="100px" height="100px" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/758a3b80-a12e-4ee2-9396-b82bc902e99b" /></center>|<center><img width="100px" height="100px" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/c6fbcf04-d2a6-47ed-9cb5-2d69533e4058" /></center>|<center><img width="110px" height="110px" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/c838e8be-b676-411e-9b48-c096e54dca7a" />|<center>
-| role    | <center> Team Leader <br> Backend <br> DevOps </center>   | <center> Team Leader <br> Frontend </center>  | <center> Frontend <br> Backend </center>  | <center> Frontend </center> | <center> Backend <br> DevOps </center> | <center> Backend <br> DevOps </center>  | 
-GitHub | <center>&nbsp;&nbsp;&nbsp;[@jungeunyooon](https://github.com/jungeunyooon)&nbsp;&nbsp;&nbsp;</center> | <center>&nbsp;[@miyoung12](https://github.com/miyoung12)&nbsp;</center>| <center>&nbsp;&nbsp;&nbsp;&nbsp;[@dlwhsk0](https://github.com/dlwhsk0)&nbsp;&nbsp;&nbsp;&nbsp;</center>| <center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[@brojj22](https://github.com/brojj22)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center> | <center>[@Gwanghyeon-k](https://github.com/Gwanghyeon-k)</center> | <center>&nbsp;&nbsp;&nbsp;&nbsp;[@kanguk01](https://github.com/kanguk01)&nbsp;&nbsp;&nbsp;&nbsp;</center> | 
+| Profile | <center><img width="100px" height="100px" src="" /></center>|<center><img width="100px" height="100px" src="" /></center>|<center><img width="100px" height="100px" src="" /></center>|<center><img width="100px" height="100px" src="" /></center>|<center><img width="100px" height="100px" src="" /></center>|<center><img width="110px" height="110px" src="" />|<center>
+| role    | <center> Team Leader <br> frontend <br> DevOps </center>   | <center> Frontend </center>  | <center> Frontend </center>  | <center> Backend <br> Devops </center> | <center> Backend <br> DevOps </center> | <center> Backend <br> DevOps </center>  | 
+GitHub | <center>&nbsp;&nbsp;&nbsp;[@Gwanghyeon-k](https://github.com/Gwanghyeon-k)&nbsp;&nbsp;&nbsp;</center> | <center>&nbsp;[@ks9058](github.com/ks9058)&nbsp;</center>| <center>&nbsp;&nbsp;&nbsp;&nbsp;[@0in2](https://github.com/0in2)&nbsp;&nbsp;&nbsp;&nbsp;</center>| <center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[@silkair](silkair.github.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center> | <center>[@chaeeun1103](https://github.com/chaeeun1103/-js-.git)</center> | <center>&nbsp;&nbsp;&nbsp;&nbsp;[@coder-ssy](https://github.com/coder-ssy)&nbsp;&nbsp;&nbsp;&nbsp;</center> | 
 
 
 
