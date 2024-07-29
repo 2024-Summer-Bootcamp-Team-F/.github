@@ -115,7 +115,7 @@ Grafana & Prometheus & ELK
 
 **Django** |**Node exporter** |
 :-----:|:-----:
-<img src = "" width=100% >
+<img src = "https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/97737a7f-512e-40d9-b5f1-3d5236dfaba9/f7e96896-ad22-4757-bed6-d8af38869563.png?id=cfd9f41f-6ff4-4b1d-b224-54c450fb94a4&table=block&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722355200000&signature=JtCpOPXMzxRHdqcuLHv7_XSB5xszLM2LdFH98F_ihgw&downloadName=Untitled.png" width=100% height="100%">|<img src = "https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/e945a3ee-7fd6-4a50-b1de-1f8490d4153a/70294a7e-84f6-4af9-bc9e-b2c5b89f2890.png?id=dc6a10fe-dcdd-4783-97d0-972453eea4fd&table=block&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722355200000&signature=CfcVMSidciAKsYmdbs465BKmZ4lGZa0TnmROrCV5m0w&downloadName=Untitled.png" width=100% height="100%">
 
 <table>
   <tr>
@@ -152,14 +152,67 @@ Grafana & Prometheus & ELK
 ┃ ┣ 📜settings.py  
 ┃ ┣ 📜url.py  
 ┃ ┗ 📜wsgi.py  
-┣ 📂background 
-┣ 📂banner  
+┣ 📂background
+┃ ┣ 📜__init__.py 
+┃ ┣ 📜admin.py  
+┃ ┣ 📜apps.py  
+┃ ┣ 📜models.py
+┃ ┣ 📜serializers.py
+┃ ┣ 📜tasks.py
+┃ ┣ 📜url.py 
+┃ ┗ 📜views.py  
+┣ 📂banner 
+┃ ┣ 📜__init__.py 
+┃ ┣ 📜admin.py  
+┃ ┣ 📜apps.py  
+┃ ┣ 📜models.py
+┃ ┣ 📜serializers.py
+┃ ┣ 📜url.py 
+┃ ┗ 📜views.py  
 ┣ 📂db   
 ┃ ┗ 📜Dockerfile 
 ┣ 📂image
+┃ ┣ 📜__init__.py 
+┃ ┣ 📜admin.py  
+┃ ┣ 📜apps.py  
+┃ ┣ 📜models.py
+┃ ┣ 📜serializers.py
+┃ ┣ 📜tasks.py
+┃ ┣ 📜url.py 
+┃ ┗ 📜views.py  
+┣ 📂recreated_background
+┃ ┣ 📜__init__.py 
+┃ ┣ 📜admin.py  
+┃ ┣ 📜apps.py  
+┃ ┣ 📜models.py
+┃ ┣ 📜serializers.py
+┃ ┣ 📜url.py 
+┃ ┗ 📜views.py  
 ┣ 📂imagetovideo
+┃ ┣ 📜__init__.py 
+┃ ┣ 📜admin.py  
+┃ ┣ 📜apps.py  
+┃ ┣ 📜models.py
+┃ ┣ 📜serializers.py
+┃ ┣ 📜tasks.py
+┃ ┣ 📜url.py 
+┃ ┗ 📜views.py  
 ┣ 📂image_reszing
+┃ ┣ 📜__init__.py 
+┃ ┣ 📜admin.py  
+┃ ┣ 📜apps.py  
+┃ ┣ 📜models.py
+┃ ┣ 📜serializers.py
+┃ ┣ 📜url.py 
+┃ ┗ 📜views.py  
 ┣ 📂texttovideo
+┃ ┣ 📜__init__.py 
+┃ ┣ 📜admin.py  
+┃ ┣ 📜apps.py  
+┃ ┣ 📜models.py
+┃ ┣ 📜serializers.py
+┃ ┣ 📜url.py 
+┃ ┗ 📜views.py  
 ┣ 📂monitoring
 ┃ ┣ 📂alertmanager
 ┃ ┣ 📂prometheus
