@@ -99,16 +99,9 @@
 <!-- <details> -->
 <div markdown="1">
 
-  
-<table>
-  <tr>
-    <td colspan="2" align="center"><b>swagger</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/fa8a55d7-3dff-485e-8ed4-9e4f7928f795/Untitled.png?id=a2a4e575-b576-4dff-81ab-a68421b4c755&table=block&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722348000000&signature=eRMwzlAUSW2qtsB74fYnflhm_QCv6KhQmxKONcuNfZk&downloadName=Untitled.png" width="100%" height="100%"> <img src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/3d4d4ee4-189b-4ae4-a686-ebd223edd4cf/%EC%8A%A4%EC%9B%A8%EA%B1%B02.png?id=668ba9a3-ea77-4984-ae27-98bb625a7073&table=block&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722369600000&signature=NYpmphP8DshAANKRy2lh_ZrmaZUAifIAAVDqMByHnyw&downloadName=%EC%8A%A4%EC%9B%A8%EA%B1%B02.png" width="100%" height="100%"><img src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/f0a890ed-e4ef-414f-beb7-25332757afb0/%EC%8A%A4%EC%9B%A8%EA%B1%B03.png?id=3ca292e2-1b53-4669-860d-5b78a4fdd2a9&table=block&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722369600000&signature=cW__vq0y887MoixhFIy1X-wXoI7d5DzqUqJUhIpXejE&downloadName=%EC%8A%A4%EC%9B%A8%EA%B1%B03.png" width="100%" height="100%">
-    </td>
-  </tr>
-</table>
+  Swagger_API1|Swagger_API2|
+:-:|:-:
+<img src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/a10921ae-bc9b-4d81-be03-deca6abc26ac/%EC%8A%A4%EC%9B%A8%EA%B1%B01.png?id=13054d69-7c27-4346-8219-e1a145c63376&table=block&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722412800000&signature=-NP_a2BuWU4Qmkm9EOvIOzxjugLOdtTJANjDyF17nV4&downloadName=%EC%8A%A4%EC%9B%A8%EA%B1%B01.png" width="100%" height="100%"> | <img src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/83eb3143-a125-4487-bbd6-596fc16e3de1/%EC%8A%A4%EC%9B%A8%EA%B1%B01-2.png?id=a4e527b7-9472-492e-a81f-225841e67ddc&table=block&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722412800000&signature=IhDiA5rHoKkb_zy_H2UQnJv1NW6VYrOh9fTy06rUw8M&downloadName=%EC%8A%A4%EC%9B%A8%EA%B1%B01-2.png" width="100%" height="100%">
   
 </div>
 
