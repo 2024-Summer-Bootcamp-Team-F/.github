@@ -1,5 +1,5 @@
 <div align=center>
-<br> <image width=50%, height=50%, src="https://github.com/user-attachments/assets/77951842-4b4b-4e29-b6bb-3e8cf5c2061c">
+<br> <image width=50%, height=50%, src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/09fcc966-25a8-43d2-b8ae-83ca16c82035/%EC%A4%84%EC%9D%B8%EA%B2%83.png?id=613fb817-9cc2-41f4-a509-e5f523fc9006&table=block&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722499200000&signature=fUy8_AdtLvO5Lvc3T5EM4npO0BLJnlL80vEjawV-l4Q&downloadName=%EC%A4%84%EC%9D%B8%EA%B2%83.png">
 
 <br>📹 AI로 광고 생성하는 서비스 📹
 ##### URL : https://techeerpicture.store 
@@ -62,7 +62,9 @@
 <img src="">
 
 ### 📷 로딩창
-<img src="">
+<img src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/c6d107e0-e665-49fb-8119-139a04459c00/Loading.gif?id=e69d9d27-5d73-4a82-83f6-15c0b6350029&table=block&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722499200000&signature=xFfQeCoIgRwv_-PueitP1BM-W7mQ_G3PxJfA593GW3g&downloadName=Loading.gif">
+
+
 
 ## 📚Table of Contents
 - [Medium](#-Medium)
