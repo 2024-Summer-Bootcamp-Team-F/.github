@@ -6,8 +6,8 @@
 </div>
 
 ## 📑 Medium
-✔️ [Korean Version]()
-<br>✔️ [English Version]()
+✔️ [Korean Version](https://medium.com/@gwanghyeonkim01/techeerpicture-ai-광고-생성-서비스-f7a5a5419c45)
+<br>✔️ [English Version](https://medium.com/@gwanghyeonkim01/techeerpicture-ai-ad-creation-service-d55b8304a2a3)
 
 # ❓ TecheerPicture
 
