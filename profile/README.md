@@ -44,28 +44,35 @@
 ## 📹 Demo
 
 ### 📷 온보딩 페이지
-<img src="">
+<img w-2000 h-1000 src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/8986ec45-a2ad-4266-97a0-9ac2877f514d/onboarding.gif?table=block&id=44d06e87-aa02-4609-bde8-7fefe555204c&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722592800000&signature=RhbRqKb8IsshnCpQ4oXmQYuKBmD8VQ4ZUN8rX5LtSWk&downloadName=onboarding.gif">
 테커픽처가 어떠한 기능을 제공하고 있는지 간단한 설명과 생성한 결과물을 보여줍니다.
-### 📷 닉네임 생성 페이지
-<img src="">
 
 ### 📷 광고 선택 페이지
-<img src="">
+<img src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/75da2b0e-d3e7-43ae-b57d-8a8175b922e7/select.gif?table=block&id=e2a6763f-dc6d-412e-8885-2b07dec61a74&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722592800000&signature=CkJ0UapUG-BxtXZvJLC3nEeyxx-pvFQfc5r67WNjabE&downloadName=select.gif">
 총 4가지의 광고 생성 서비스에 대한 설명과 예시 영상을 보여줍니다.
+
 ### 📷 광고 배경 생성 페이지
-<img src="">
+<img src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/c532ed2f-3df9-445f-a91b-ec79708bb15e/theme.gif?table=block&id=9ed0285a-5fa2-4add-a16b-16d96d034303&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722592800000&signature=4MknYkeQa4i_niNara8PZT5BH_pufAtcSxwAeGlUVNQ&downloadName=theme.gif">
 배경생성은 단순한 배경을 생성하는 심플기능 이미지에 스타일을 적용하는 테마기능 배경을 제거하는 누끼기능으로 총 3가지 서비스를 제공합니다. 
+
 ### 📷 광고 문구 생성 페이지
-<img src="">
+<img src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/4a31dae0-14d5-4cff-87d0-fe365a424b99/banner.gif?table=block&id=e6c48213-ae14-4e17-821d-7f6f2c146333&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722592800000&signature=X1rnsqerhs1ywZDqkkdLggIm8bzNa4x4Aq9LOX63LqA&downloadName=banner.gif">
 상품 정보와 추가로 원하는 컨셉을 입력받고 광고할 이미지의 크기를 정합니다. 배경생성과 더불어 광고 문구가 추가된 광고 이미지를 생성합니다.
+
+### 📷 광고 문구 편집 페이지
+<img src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/6fbef762-052e-4ba0-8413-32d8b07d93ad/banneredit.gif?table=block&id=e72933fe-da4e-4588-8e51-a266c35e96c0&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722592800000&signature=1Ukdsc4X284OE1_mDm3UcZHixKGsF_FoHITvdnjeUnk&downloadName=banneredit.gif">
+총 2세트의 문구를 제공하고 직접입력을 통해 문구를 생성할 수 있는 기능을 지원합니다.
+
 ### 📷 텍스트 변환 광고 영상 생성 페이지
-<img src="">
+<img src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/d0c57ee2-2ebd-42d5-a4aa-528f7fc723cb/text-to-video.gif?table=block&id=0aae880d-9b20-4bc0-bdbb-e2c828f3742c&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722592800000&signature=upprHGzINTZHHI61RPfeOBwsddaBRPN3Wr7tsECNbTE&downloadName=text-to-video.gif">
 텍스트로 광고할 컨텐츠를 설명하여 짧은 영상을 생성합니다. 
+
 ### 📷 이미지 변환 광고 영상 생성 페이지
-<img src="">
+<img src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/a68ef781-c900-4659-a415-2a7a72e0ef6b/image-to-video.gif?table=block&id=624d46e4-6667-42f9-8757-d1aef2337e7c&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722592800000&signature=dH4XMw5Q_FSJzdI4YyO0RFvmD9H4dwTgDjveg5Bc_ig&downloadName=image-to-video.gif">
 이미지에 동적인 움직임이 추가됩니다. 동작에 대한 설명을 텍스트로 입력받아 이미지를 동영상으로 변환합니다.
+
 ### 📷 로딩창
-<img src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/c6d107e0-e665-49fb-8119-139a04459c00/Loading.gif?id=e69d9d27-5d73-4a82-83f6-15c0b6350029&table=block&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722499200000&signature=xFfQeCoIgRwv_-PueitP1BM-W7mQ_G3PxJfA593GW3g&downloadName=Loading.gif">
+<img src="https://file.notion.so/f/f/714aca02-6f24-4e43-9dbf-f19c5a3108b2/30728117-14cd-45f7-bc9b-d7188247129f/loading.gif?table=block&id=f6178342-a959-441e-a2d0-bdd649ab061d&spaceId=714aca02-6f24-4e43-9dbf-f19c5a3108b2&expirationTimestamp=1722592800000&signature=qE7oPhf_p2pM8TwLX5ZdIZazVYXdhPYE96QHiH_xxBY&downloadName=loading.gif">
 
 
 
